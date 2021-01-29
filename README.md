@@ -1,2 +1,2 @@
 # hello-world
-This is a test repository :)
+I'm working through my first tutorial!
